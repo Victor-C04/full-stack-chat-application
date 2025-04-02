@@ -9,9 +9,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
-  "engines": {
-  "node": "18.x"
-}
-
+  "description": ""
 }
